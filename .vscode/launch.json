@@ -6,6 +6,13 @@
     "configurations": [
         {
             "type": "java",
+            "name": "Chat_room",
+            "request": "launch",
+            "mainClass": "Code_Force.Div_1100.Chat_room",
+            "projectName": "Java_742710f8"
+        },
+        {
+            "type": "java",
             "name": "New_Year_Transportation",
             "request": "launch",
             "mainClass": "Code_Force.Div_1100.New_Year_Transportation",
