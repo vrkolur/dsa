@@ -1,7 +1,7 @@
 package Linked_List;
 
 public class delete_Nth_node_last {
-    
+
     class node {
         int data;
         node next;
@@ -49,7 +49,7 @@ public class delete_Nth_node_last {
         // System.out.println();
     }
 
-    public int  count() {
+    public int count() {
         int count = 0;
         node p = head;
         while (p != null) {
@@ -57,11 +57,11 @@ public class delete_Nth_node_last {
             count += 1;
         }
         return count;
-    } 
+    }
 
     public void delete(int key) {
         int size = count();
-        int pos = size - key%size;
+        int pos = size - key % size;
         node p = head, q = null;
         for (int i = 0; i < pos; i++) {
             q = p;
