@@ -1,4 +1,8 @@
 {
     "liveServer.settings.port": 5501,
-    "java.debug.settings.onBuildFailureProceed": true
+    "java.debug.settings.onBuildFailureProceed": true,
+    "files.associations": {
+        "functional": "cpp",
+        "ostream": "cpp"
+    }
 }
