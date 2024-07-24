@@ -31,6 +31,19 @@ public class Longest_Substring_Without_Repeating_Characters {
         }
         return maxLen;
     }
+    // private int solutionSha(String s){
+    //     HashMap<Character,Integer> map= new HashMap<>();
+    //     int i=0;
+    //     int j=0;
+    //     int maxLen = Integer.MIN_VALUE;
+
+    //     while(j<s.length()){
+    //         char ch = s.charAt(j);
+    //         map.put(ch, map.getOrDefault(ch,0 )+1);
+
+    //         // if(map.size()==())
+    //     }
+    // }
 
     private int solution1(String s) {
         int[] lastIndex=new int[180];
