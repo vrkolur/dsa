@@ -1,0 +1,2100 @@
+{
+    // Use IntelliSense to learn about possible attributes.
+    // Hover to view descriptions of existing attributes.
+    // For more information, visit: https://go.microsoft.com/fwlink/?linkid=830387
+    "version": "0.2.0",
+    "configurations": [
+        {
+            "type": "java",
+            "name": "Search_in_Rotated_Sorted_Array_With_Duplicates",
+            "request": "launch",
+            "mainClass": "Binary_Search.Search_in_Rotated_Sorted_Array_With_Duplicates",
+            "projectName": "dsa_eaf9643c"
+        },
+        {
+            "type": "java",
+            "name": "Search_in_Rotated_Sorted_Array",
+            "request": "launch",
+            "mainClass": "Binary_Search.Search_in_Rotated_Sorted_Array",
+            "projectName": "dsa_eaf9643c"
+        },
+        {
+            "type": "java",
+            "name": "Find_First_and_Last_Position_of_Element_in_Sorted_Array",
+            "request": "launch",
+            "mainClass": "Binary_Search.Find_First_and_Last_Position_of_Element_in_Sorted_Array",
+            "projectName": "dsa_eaf9643c"
+        },
+        {
+            "type": "java",
+            "name": "Lower_Upper_Bound_withDuplicates",
+            "request": "launch",
+            "mainClass": "Binary_Search.Lower_Upper_Bound_withDuplicates",
+            "projectName": "dsa_eaf9643c"
+        },
+        {
+            "type": "java",
+            "name": "Floor_Ceil",
+            "request": "launch",
+            "mainClass": "Binary_Search.Floor_Ceil",
+            "projectName": "dsa_eaf9643c"
+        },
+        {
+            "type": "java",
+            "name": "Search_Insert_Position",
+            "request": "launch",
+            "mainClass": "Binary_Search.Search_Insert_Position",
+            "projectName": "dsa_eaf9643c"
+        },
+        {
+            "type": "java",
+            "name": "Current File",
+            "request": "launch",
+            "mainClass": "${file}"
+        },
+        {
+            "type": "java",
+            "name": "Can_Place_Flowers",
+            "request": "launch",
+            "mainClass": "Arrays.Can_Place_Flowers",
+            "projectName": "dsa_eaf9643c"
+        },
+        {
+            "type": "java",
+            "name": "Container_With_Most_Water",
+            "request": "launch",
+            "mainClass": "Arrays.Container_With_Most_Water",
+            "projectName": "dsa_eaf9643c"
+        },
+        {
+            "type": "java",
+            "name": "Four_Sum",
+            "request": "launch",
+            "mainClass": "Arrays.Four_Sum",
+            "projectName": "dsa_eaf9643c"
+        },
+        {
+            "type": "java",
+            "name": "Next_Permutaion",
+            "request": "launch",
+            "mainClass": "Arrays.Next_Permutaion",
+            "projectName": "dsa_eaf9643c"
+        },
+        {
+            "type": "java",
+            "name": "Pascle_Triangle",
+            "request": "launch",
+            "mainClass": "Arrays.Pascle_Triangle",
+            "projectName": "dsa_eaf9643c"
+        },
+        {
+            "type": "java",
+            "name": "Subarray_with_given_sum",
+            "request": "launch",
+            "mainClass": "Arrays.Subarray_with_given_sum",
+            "projectName": "dsa_eaf9643c"
+        },
+        {
+            "type": "java",
+            "name": "Three_Sum",
+            "request": "launch",
+            "mainClass": "Arrays.Three_Sum",
+            "projectName": "dsa_eaf9643c"
+        },
+        {
+            "type": "java",
+            "name": "Three_Sum_Closest",
+            "request": "launch",
+            "mainClass": "Arrays.Three_Sum_Closest",
+            "projectName": "dsa_eaf9643c"
+        },
+        {
+            "type": "java",
+            "name": "Two_Sum",
+            "request": "launch",
+            "mainClass": "Arrays.Two_Sum",
+            "projectName": "dsa_eaf9643c"
+        },
+        {
+            "type": "java",
+            "name": "Binary_Search_Tree_Iterator",
+            "request": "launch",
+            "mainClass": "BST.Binary_Search_Tree_Iterator",
+            "projectName": "dsa_eaf9643c"
+        },
+        {
+            "type": "java",
+            "name": "Build_BST",
+            "request": "launch",
+            "mainClass": "BST.Build_BST",
+            "projectName": "dsa_eaf9643c"
+        },
+        {
+            "type": "java",
+            "name": "Ceil_Floor_in_a_BST",
+            "request": "launch",
+            "mainClass": "BST.Ceil_Floor_in_a_BST",
+            "projectName": "dsa_eaf9643c"
+        },
+        {
+            "type": "java",
+            "name": "Construct_Binary_Search_Tree_from_Preorder_Traversal",
+            "request": "launch",
+            "mainClass": "BST.Construct_Binary_Search_Tree_from_Preorder_Traversal",
+            "projectName": "dsa_eaf9643c"
+        },
+        {
+            "type": "java",
+            "name": "Convert_BST_to_Greater_Tree",
+            "request": "launch",
+            "mainClass": "BST.Convert_BST_to_Greater_Tree",
+            "projectName": "dsa_eaf9643c"
+        },
+        {
+            "type": "java",
+            "name": "Delete_Node_in_a_BST",
+            "request": "launch",
+            "mainClass": "BST.Delete_Node_in_a_BST",
+            "projectName": "dsa_eaf9643c"
+        },
+        {
+            "type": "java",
+            "name": "InorderSuccessor_in_BST",
+            "request": "launch",
+            "mainClass": "BST.InorderSuccessor_in_BST",
+            "projectName": "dsa_eaf9643c"
+        },
+        {
+            "type": "java",
+            "name": "Insert_into_a_Binary_Search_Tree",
+            "request": "launch",
+            "mainClass": "BST.Insert_into_a_Binary_Search_Tree",
+            "projectName": "dsa_eaf9643c"
+        },
+        {
+            "type": "java",
+            "name": "K_th_Smallest_Largest_Element_in_BST",
+            "request": "launch",
+            "mainClass": "BST.K_th_Smallest_Largest_Element_in_BST",
+            "projectName": "dsa_eaf9643c"
+        },
+        {
+            "type": "java",
+            "name": "Largest_BST_in_a_Binary_Tree",
+            "request": "launch",
+            "mainClass": "BST.Largest_BST_in_a_Binary_Tree",
+            "projectName": "dsa_eaf9643c"
+        },
+        {
+            "type": "java",
+            "name": "Lowest_Common_Ancestor_of_a_Binary_Search_Tree",
+            "request": "launch",
+            "mainClass": "BST.Lowest_Common_Ancestor_of_a_Binary_Search_Tree",
+            "projectName": "dsa_eaf9643c"
+        },
+        {
+            "type": "java",
+            "name": "Recover_Binary_Search_Tree",
+            "request": "launch",
+            "mainClass": "BST.Recover_Binary_Search_Tree",
+            "projectName": "dsa_eaf9643c"
+        },
+        {
+            "type": "java",
+            "name": "Search_in_BST",
+            "request": "launch",
+            "mainClass": "BST.Search_in_BST",
+            "projectName": "dsa_eaf9643c"
+        },
+        {
+            "type": "java",
+            "name": "Trim_a_Binary_Search_Tree",
+            "request": "launch",
+            "mainClass": "BST.Trim_a_Binary_Search_Tree",
+            "projectName": "dsa_eaf9643c"
+        },
+        {
+            "type": "java",
+            "name": "Two_Sum_IV_Input_is_a_BST",
+            "request": "launch",
+            "mainClass": "BST.Two_Sum_IV_Input_is_a_BST",
+            "projectName": "dsa_eaf9643c"
+        },
+        {
+            "type": "java",
+            "name": "Validate_Binary_Search_Tree",
+            "request": "launch",
+            "mainClass": "BST.Validate_Binary_Search_Tree",
+            "projectName": "dsa_eaf9643c"
+        },
+        {
+            "type": "java",
+            "name": "Binary_Search",
+            "request": "launch",
+            "mainClass": "Binary_Search.Binary_Search",
+            "projectName": "dsa_eaf9643c"
+        },
+        {
+            "type": "java",
+            "name": "Lower_Upper_Bound",
+            "request": "launch",
+            "mainClass": "Binary_Search.Lower_Upper_Bound",
+            "projectName": "dsa_eaf9643c"
+        },
+        {
+            "type": "java",
+            "name": "Upper_Lower",
+            "request": "launch",
+            "mainClass": "Binary_Search.Upper_Lower",
+            "projectName": "dsa_eaf9643c"
+        },
+        {
+            "type": "java",
+            "name": "Chat_room",
+            "request": "launch",
+            "mainClass": "Code_Force.Div_1100.Chat_room",
+            "projectName": "dsa_eaf9643c"
+        },
+        {
+            "type": "java",
+            "name": "Dragons",
+            "request": "launch",
+            "mainClass": "Code_Force.Div_1100.Dragons",
+            "projectName": "dsa_eaf9643c"
+        },
+        {
+            "type": "java",
+            "name": "Interesting_drink",
+            "request": "launch",
+            "mainClass": "Code_Force.Div_1100.Interesting_drink",
+            "projectName": "dsa_eaf9643c"
+        },
+        {
+            "type": "java",
+            "name": "Taxi",
+            "request": "launch",
+            "mainClass": "Code_Force.Div_1100.Taxi",
+            "projectName": "dsa_eaf9643c"
+        },
+        {
+            "type": "java",
+            "name": "Ambitious_Kid",
+            "request": "launch",
+            "mainClass": "Code_Force.Div_900.Ambitious_Kid",
+            "projectName": "dsa_eaf9643c"
+        },
+        {
+            "type": "java",
+            "name": "Beautiful_Matrix",
+            "request": "launch",
+            "mainClass": "Code_Force.Div_900.Beautiful_Matrix",
+            "projectName": "dsa_eaf9643c"
+        },
+        {
+            "type": "java",
+            "name": "BitPP",
+            "request": "launch",
+            "mainClass": "Code_Force.Div_900.BitPP",
+            "projectName": "dsa_eaf9643c"
+        },
+        {
+            "type": "java",
+            "name": "Collatz_Conjecture",
+            "request": "launch",
+            "mainClass": "Code_Force.Div_900.Collatz_Conjecture",
+            "projectName": "dsa_eaf9643c"
+        },
+        {
+            "type": "java",
+            "name": "Come_Together",
+            "request": "launch",
+            "mainClass": "Code_Force.Div_900.Come_Together",
+            "projectName": "dsa_eaf9643c"
+        },
+        {
+            "type": "java",
+            "name": "Comparison_String",
+            "request": "launch",
+            "mainClass": "Code_Force.Div_900.Comparison_String",
+            "projectName": "dsa_eaf9643c"
+        },
+        {
+            "type": "java",
+            "name": "Domino_piling",
+            "request": "launch",
+            "mainClass": "Code_Force.Div_900.Domino_piling",
+            "projectName": "dsa_eaf9643c"
+        },
+        {
+            "type": "java",
+            "name": "Football",
+            "request": "launch",
+            "mainClass": "Code_Force.Div_900.Football",
+            "projectName": "dsa_eaf9643c"
+        },
+        {
+            "type": "java",
+            "name": "Game_With_Sticks",
+            "request": "launch",
+            "mainClass": "Code_Force.Div_900.Game_With_Sticks",
+            "projectName": "dsa_eaf9643c"
+        },
+        {
+            "type": "java",
+            "name": "Good_Arrays",
+            "request": "launch",
+            "mainClass": "Code_Force.Div_900.Good_Arrays",
+            "projectName": "dsa_eaf9643c"
+        },
+        {
+            "type": "java",
+            "name": "Good_Kid",
+            "request": "launch",
+            "mainClass": "Code_Force.Div_900.Good_Kid",
+            "projectName": "dsa_eaf9643c"
+        },
+        {
+            "type": "java",
+            "name": "Gravity_Flip",
+            "request": "launch",
+            "mainClass": "Code_Force.Div_900.Gravity_Flip",
+            "projectName": "dsa_eaf9643c"
+        },
+        {
+            "type": "java",
+            "name": "IDEraser",
+            "request": "launch",
+            "mainClass": "Code_Force.Div_900.IDEraser",
+            "projectName": "dsa_eaf9643c"
+        },
+        {
+            "type": "java",
+            "name": "Ilya_and_Bank_Account",
+            "request": "launch",
+            "mainClass": "Code_Force.Div_900.Ilya_and_Bank_Account",
+            "projectName": "dsa_eaf9643c"
+        },
+        {
+            "type": "java",
+            "name": "Kefa_and_First_Steps",
+            "request": "launch",
+            "mainClass": "Code_Force.Div_900.Kefa_and_First_Steps",
+            "projectName": "dsa_eaf9643c"
+        },
+        {
+            "type": "java",
+            "name": "Next_Round",
+            "request": "launch",
+            "mainClass": "Code_Force.Div_900.Next_Round",
+            "projectName": "dsa_eaf9643c"
+        },
+        {
+            "type": "java",
+            "name": "Puzzles",
+            "request": "launch",
+            "mainClass": "Code_Force.Div_900.Puzzles",
+            "projectName": "dsa_eaf9643c"
+        },
+        {
+            "type": "java",
+            "name": "Rigged",
+            "request": "launch",
+            "mainClass": "Code_Force.Div_900.Rigged",
+            "projectName": "dsa_eaf9643c"
+        },
+        {
+            "type": "java",
+            "name": "Short_Sort",
+            "request": "launch",
+            "mainClass": "Code_Force.Div_900.Short_Sort",
+            "projectName": "dsa_eaf9643c"
+        },
+        {
+            "type": "java",
+            "name": "String_Task",
+            "request": "launch",
+            "mainClass": "Code_Force.Div_900.String_Task",
+            "projectName": "dsa_eaf9643c"
+        },
+        {
+            "type": "java",
+            "name": "Team",
+            "request": "launch",
+            "mainClass": "Code_Force.Div_900.Team",
+            "projectName": "dsa_eaf9643c"
+        },
+        {
+            "type": "java",
+            "name": "The_Corridor_or_There_and_Back_Again",
+            "request": "launch",
+            "mainClass": "Code_Force.Div_900.The_Corridor_or_There_and_Back_Again",
+            "projectName": "dsa_eaf9643c"
+        },
+        {
+            "type": "java",
+            "name": "Theatre_Square",
+            "request": "launch",
+            "mainClass": "Code_Force.Div_900.Theatre_Square",
+            "projectName": "dsa_eaf9643c"
+        },
+        {
+            "type": "java",
+            "name": "Twins",
+            "request": "launch",
+            "mainClass": "Code_Force.Div_900.Twins",
+            "projectName": "dsa_eaf9643c"
+        },
+        {
+            "type": "java",
+            "name": "Two_Vessels",
+            "request": "launch",
+            "mainClass": "Code_Force.Div_900.Two_Vessels",
+            "projectName": "dsa_eaf9643c"
+        },
+        {
+            "type": "java",
+            "name": "Vika_and_Her_Friends",
+            "request": "launch",
+            "mainClass": "Code_Force.Div_900.Vika_and_Her_Friends",
+            "projectName": "dsa_eaf9643c"
+        },
+        {
+            "type": "java",
+            "name": "Watermelon",
+            "request": "launch",
+            "mainClass": "Code_Force.Div_900.Watermelon",
+            "projectName": "dsa_eaf9643c"
+        },
+        {
+            "type": "java",
+            "name": "Way_Too_Long_Words",
+            "request": "launch",
+            "mainClass": "Code_Force.Div_900.Way_Too_Long_Words",
+            "projectName": "dsa_eaf9643c"
+        },
+        {
+            "type": "java",
+            "name": "Young_Physicist",
+            "request": "launch",
+            "mainClass": "Code_Force.Div_900.Young_Physicist",
+            "projectName": "dsa_eaf9643c"
+        },
+        {
+            "type": "java",
+            "name": "Cherry_Pickup",
+            "request": "launch",
+            "mainClass": "Dynamic_Programming.Cherry_Pickup",
+            "projectName": "dsa_eaf9643c"
+        },
+        {
+            "type": "java",
+            "name": "Cherry_Pickup_II",
+            "request": "launch",
+            "mainClass": "Dynamic_Programming.Cherry_Pickup_II",
+            "projectName": "dsa_eaf9643c"
+        },
+        {
+            "type": "java",
+            "name": "Coin_Change",
+            "request": "launch",
+            "mainClass": "Dynamic_Programming.Coin_Change",
+            "projectName": "dsa_eaf9643c"
+        },
+        {
+            "type": "java",
+            "name": "Coin_Change_II",
+            "request": "launch",
+            "mainClass": "Dynamic_Programming.Coin_Change_II",
+            "projectName": "dsa_eaf9643c"
+        },
+        {
+            "type": "java",
+            "name": "Count_no_of_Subsets_with_given_Difference",
+            "request": "launch",
+            "mainClass": "Dynamic_Programming.Count_no_of_Subsets_with_given_Difference",
+            "projectName": "dsa_eaf9643c"
+        },
+        {
+            "type": "java",
+            "name": "Count_of_Subset_with_sum_x",
+            "request": "launch",
+            "mainClass": "Dynamic_Programming.Count_of_Subset_with_sum_x",
+            "projectName": "dsa_eaf9643c"
+        },
+        {
+            "type": "java",
+            "name": "Delete_Operation_for_Two_Strings",
+            "request": "launch",
+            "mainClass": "Dynamic_Programming.Delete_Operation_for_Two_Strings",
+            "projectName": "dsa_eaf9643c"
+        },
+        {
+            "type": "java",
+            "name": "Fibonacchi_Series",
+            "request": "launch",
+            "mainClass": "Dynamic_Programming.Fibonacchi_Series",
+            "projectName": "dsa_eaf9643c"
+        },
+        {
+            "type": "java",
+            "name": "Frog_JumpCN",
+            "request": "launch",
+            "mainClass": "Dynamic_Programming.Frog_JumpCN",
+            "projectName": "dsa_eaf9643c"
+        },
+        {
+            "type": "java",
+            "name": "HelloWorld",
+            "request": "launch",
+            "mainClass": "Dynamic_Programming.HelloWorld",
+            "projectName": "dsa_eaf9643c"
+        },
+        {
+            "type": "java",
+            "name": "House_Robber",
+            "request": "launch",
+            "mainClass": "Dynamic_Programming.House_Robber",
+            "projectName": "dsa_eaf9643c"
+        },
+        {
+            "type": "java",
+            "name": "House_Robber_II",
+            "request": "launch",
+            "mainClass": "Dynamic_Programming.House_Robber_II",
+            "projectName": "dsa_eaf9643c"
+        },
+        {
+            "type": "java",
+            "name": "Jump_Game",
+            "request": "launch",
+            "mainClass": "Dynamic_Programming.Jump_Game",
+            "projectName": "dsa_eaf9643c"
+        },
+        {
+            "type": "java",
+            "name": "Knapsack01",
+            "request": "launch",
+            "mainClass": "Dynamic_Programming.Knapsack01",
+            "projectName": "dsa_eaf9643c"
+        },
+        {
+            "type": "java",
+            "name": "Leetcode28I",
+            "request": "launch",
+            "mainClass": "Dynamic_Programming.Leetcode28I",
+            "projectName": "dsa_eaf9643c"
+        },
+        {
+            "type": "java",
+            "name": "Longest_Common_Subsequence",
+            "request": "launch",
+            "mainClass": "Dynamic_Programming.Longest_Common_Subsequence",
+            "projectName": "dsa_eaf9643c"
+        },
+        {
+            "type": "java",
+            "name": "Longest_Common_Substring",
+            "request": "launch",
+            "mainClass": "Dynamic_Programming.Longest_Common_Substring",
+            "projectName": "dsa_eaf9643c"
+        },
+        {
+            "type": "java",
+            "name": "Longest_Palindromic_Subsequence",
+            "request": "launch",
+            "mainClass": "Dynamic_Programming.Longest_Palindromic_Subsequence",
+            "projectName": "dsa_eaf9643c"
+        },
+        {
+            "type": "java",
+            "name": "Longest_Repeating_Subsequence",
+            "request": "launch",
+            "mainClass": "Dynamic_Programming.Longest_Repeating_Subsequence",
+            "projectName": "dsa_eaf9643c"
+        },
+        {
+            "type": "java",
+            "name": "Matrix_Chain_Multiplication",
+            "request": "launch",
+            "mainClass": "Dynamic_Programming.Matrix_Chain_Multiplication",
+            "projectName": "dsa_eaf9643c"
+        },
+        {
+            "type": "java",
+            "name": "Maximize_The_Cut_Segments",
+            "request": "launch",
+            "mainClass": "Dynamic_Programming.Maximize_The_Cut_Segments",
+            "projectName": "dsa_eaf9643c"
+        },
+        {
+            "type": "java",
+            "name": "Maximun_Falling_Path_Sum",
+            "request": "launch",
+            "mainClass": "Dynamic_Programming.Maximun_Falling_Path_Sum",
+            "projectName": "dsa_eaf9643c"
+        },
+        {
+            "type": "java",
+            "name": "Minimum_Cost_For_Tickets",
+            "request": "launch",
+            "mainClass": "Dynamic_Programming.Minimum_Cost_For_Tickets",
+            "projectName": "dsa_eaf9643c"
+        },
+        {
+            "type": "java",
+            "name": "Minimum_Falling_Path_Sum",
+            "request": "launch",
+            "mainClass": "Dynamic_Programming.Minimum_Falling_Path_Sum",
+            "projectName": "dsa_eaf9643c"
+        },
+        {
+            "type": "java",
+            "name": "Minimum_Path_Sum",
+            "request": "launch",
+            "mainClass": "Dynamic_Programming.Minimum_Path_Sum",
+            "projectName": "dsa_eaf9643c"
+        },
+        {
+            "type": "java",
+            "name": "Minimum_subset_sum_Difference",
+            "request": "launch",
+            "mainClass": "Dynamic_Programming.Minimum_subset_sum_Difference",
+            "projectName": "dsa_eaf9643c"
+        },
+        {
+            "type": "java",
+            "name": "Ninjas_Traning",
+            "request": "launch",
+            "mainClass": "Dynamic_Programming.Ninjas_Traning",
+            "projectName": "dsa_eaf9643c"
+        },
+        {
+            "type": "java",
+            "name": "Palindromic_Partition",
+            "request": "launch",
+            "mainClass": "Dynamic_Programming.Palindromic_Partition",
+            "projectName": "dsa_eaf9643c"
+        },
+        {
+            "type": "java",
+            "name": "Partition_Equal_Subset_Sum",
+            "request": "launch",
+            "mainClass": "Dynamic_Programming.Partition_Equal_Subset_Sum",
+            "projectName": "dsa_eaf9643c"
+        },
+        {
+            "type": "java",
+            "name": "Rod_Cutting",
+            "request": "launch",
+            "mainClass": "Dynamic_Programming.Rod_Cutting",
+            "projectName": "dsa_eaf9643c"
+        },
+        {
+            "type": "java",
+            "name": "Sequence_Pattern_Matching",
+            "request": "launch",
+            "mainClass": "Dynamic_Programming.Sequence_Pattern_Matching",
+            "projectName": "dsa_eaf9643c"
+        },
+        {
+            "type": "java",
+            "name": "Shortest_Common_Supersequence",
+            "request": "launch",
+            "mainClass": "Dynamic_Programming.Shortest_Common_Supersequence",
+            "projectName": "dsa_eaf9643c"
+        },
+        {
+            "type": "java",
+            "name": "Subset_Sum",
+            "request": "launch",
+            "mainClass": "Dynamic_Programming.Subset_Sum",
+            "projectName": "dsa_eaf9643c"
+        },
+        {
+            "type": "java",
+            "name": "Sum_of_all_subsets",
+            "request": "launch",
+            "mainClass": "Dynamic_Programming.Sum_of_all_subsets",
+            "projectName": "dsa_eaf9643c"
+        },
+        {
+            "type": "java",
+            "name": "Target_Sum",
+            "request": "launch",
+            "mainClass": "Dynamic_Programming.Target_Sum",
+            "projectName": "dsa_eaf9643c"
+        },
+        {
+            "type": "java",
+            "name": "Triangle",
+            "request": "launch",
+            "mainClass": "Dynamic_Programming.Triangle",
+            "projectName": "dsa_eaf9643c"
+        },
+        {
+            "type": "java",
+            "name": "Unbounded_Knapsack01",
+            "request": "launch",
+            "mainClass": "Dynamic_Programming.Unbounded_Knapsack01",
+            "projectName": "dsa_eaf9643c"
+        },
+        {
+            "type": "java",
+            "name": "Unique_Paths",
+            "request": "launch",
+            "mainClass": "Dynamic_Programming.Unique_Paths",
+            "projectName": "dsa_eaf9643c"
+        },
+        {
+            "type": "java",
+            "name": "Accounts_Merge",
+            "request": "launch",
+            "mainClass": "Graph.Accounts_Merge",
+            "projectName": "dsa_eaf9643c"
+        },
+        {
+            "type": "java",
+            "name": "Alien_Dictonary",
+            "request": "launch",
+            "mainClass": "Graph.Alien_Dictonary",
+            "projectName": "dsa_eaf9643c"
+        },
+        {
+            "type": "java",
+            "name": "Articulation_Point",
+            "request": "launch",
+            "mainClass": "Graph.Articulation_Point",
+            "projectName": "dsa_eaf9643c"
+        },
+        {
+            "type": "java",
+            "name": "BSF_Traversal",
+            "request": "launch",
+            "mainClass": "Graph.BSF_Traversal",
+            "projectName": "dsa_eaf9643c"
+        },
+        {
+            "type": "java",
+            "name": "Cheapest_Flights_Within_K_Stops",
+            "request": "launch",
+            "mainClass": "Graph.Cheapest_Flights_Within_K_Stops",
+            "projectName": "dsa_eaf9643c"
+        },
+        {
+            "type": "java",
+            "name": "Count_Sub_Islands",
+            "request": "launch",
+            "mainClass": "Graph.Count_Sub_Islands",
+            "projectName": "dsa_eaf9643c"
+        },
+        {
+            "type": "java",
+            "name": "Course_Schedule",
+            "request": "launch",
+            "mainClass": "Graph.Course_Schedule",
+            "projectName": "dsa_eaf9643c"
+        },
+        {
+            "type": "java",
+            "name": "Course_Schedule_II",
+            "request": "launch",
+            "mainClass": "Graph.Course_Schedule_II",
+            "projectName": "dsa_eaf9643c"
+        },
+        {
+            "type": "java",
+            "name": "Create_Graph",
+            "request": "launch",
+            "mainClass": "Graph.Create_Graph",
+            "projectName": "dsa_eaf9643c"
+        },
+        {
+            "type": "java",
+            "name": "Critical_Connections_in_a_Network",
+            "request": "launch",
+            "mainClass": "Graph.Critical_Connections_in_a_Network",
+            "projectName": "dsa_eaf9643c"
+        },
+        {
+            "type": "java",
+            "name": "DFS_Traversal",
+            "request": "launch",
+            "mainClass": "Graph.DFS_Traversal",
+            "projectName": "dsa_eaf9643c"
+        },
+        {
+            "type": "java",
+            "name": "Detect_a_Cycle_in_an_Undirected_Graph",
+            "request": "launch",
+            "mainClass": "Graph.Detect_a_Cycle_in_an_Undirected_Graph",
+            "projectName": "dsa_eaf9643c"
+        },
+        {
+            "type": "java",
+            "name": "Detect_cycle_in_a_directed_graph",
+            "request": "launch",
+            "mainClass": "Graph.Detect_cycle_in_a_directed_graph",
+            "projectName": "dsa_eaf9643c"
+        },
+        {
+            "type": "java",
+            "name": "DisjointSets",
+            "request": "launch",
+            "mainClass": "Graph.DisjointSets",
+            "projectName": "dsa_eaf9643c"
+        },
+        {
+            "type": "java",
+            "name": "Distance_from_the_Source_Bellman_Ford_Algorithm",
+            "request": "launch",
+            "mainClass": "Graph.Distance_from_the_Source_Bellman_Ford_Algorithm",
+            "projectName": "dsa_eaf9643c"
+        },
+        {
+            "type": "java",
+            "name": "Distance_of_nearest_cell_havin_1",
+            "request": "launch",
+            "mainClass": "Graph.Distance_of_nearest_cell_havin_1",
+            "projectName": "dsa_eaf9643c"
+        },
+        {
+            "type": "java",
+            "name": "Find_Eventual_Safe_States",
+            "request": "launch",
+            "mainClass": "Graph.Find_Eventual_Safe_States",
+            "projectName": "dsa_eaf9643c"
+        },
+        {
+            "type": "java",
+            "name": "Find_the_City_With_the_Smallest_Number_of_Neighbors",
+            "request": "launch",
+            "mainClass": "Graph.Find_the_City_With_the_Smallest_Number_of_Neighbors",
+            "projectName": "dsa_eaf9643c"
+        },
+        {
+            "type": "java",
+            "name": "Find_whether_path_exist",
+            "request": "launch",
+            "mainClass": "Graph.Find_whether_path_exist",
+            "projectName": "dsa_eaf9643c"
+        },
+        {
+            "type": "java",
+            "name": "Floyd_Warshall",
+            "request": "launch",
+            "mainClass": "Graph.Floyd_Warshall",
+            "projectName": "dsa_eaf9643c"
+        },
+        {
+            "type": "java",
+            "name": "Implementing_Dijkstra_Algorithm",
+            "request": "launch",
+            "mainClass": "Graph.Implementing_Dijkstra_Algorithm",
+            "projectName": "dsa_eaf9643c"
+        },
+        {
+            "type": "java",
+            "name": "Is_Graph_Bipartite",
+            "request": "launch",
+            "mainClass": "Graph.Is_Graph_Bipartite",
+            "projectName": "dsa_eaf9643c"
+        },
+        {
+            "type": "java",
+            "name": "Island_Perimeter",
+            "request": "launch",
+            "mainClass": "Graph.Island_Perimeter",
+            "projectName": "dsa_eaf9643c"
+        },
+        {
+            "type": "java",
+            "name": "Kruskals_Algorithm",
+            "request": "launch",
+            "mainClass": "Graph.Kruskals_Algorithm",
+            "projectName": "dsa_eaf9643c"
+        },
+        {
+            "type": "java",
+            "name": "Longest_Increasing_Path_in_a_Matrix",
+            "request": "launch",
+            "mainClass": "Graph.Longest_Increasing_Path_in_a_Matrix",
+            "projectName": "dsa_eaf9643c"
+        },
+        {
+            "type": "java",
+            "name": "Making_A_Large_Island",
+            "request": "launch",
+            "mainClass": "Graph.Making_A_Large_Island",
+            "projectName": "dsa_eaf9643c"
+        },
+        {
+            "type": "java",
+            "name": "Min_Cost_to_Connect_All_Points",
+            "request": "launch",
+            "mainClass": "Graph.Min_Cost_to_Connect_All_Points",
+            "projectName": "dsa_eaf9643c"
+        },
+        {
+            "type": "java",
+            "name": "Minimum_Spanning_Tree_Prims",
+            "request": "launch",
+            "mainClass": "Graph.Minimum_Spanning_Tree_Prims",
+            "projectName": "dsa_eaf9643c"
+        },
+        {
+            "type": "java",
+            "name": "Most_Stones_Removed_with_Same_Row_or_Column",
+            "request": "launch",
+            "mainClass": "Graph.Most_Stones_Removed_with_Same_Row_or_Column",
+            "projectName": "dsa_eaf9643c"
+        },
+        {
+            "type": "java",
+            "name": "Network_Delay_Time",
+            "request": "launch",
+            "mainClass": "Graph.Network_Delay_Time",
+            "projectName": "dsa_eaf9643c"
+        },
+        {
+            "type": "java",
+            "name": "Number_Of_Islands_II",
+            "request": "launch",
+            "mainClass": "Graph.Number_Of_Islands_II",
+            "projectName": "dsa_eaf9643c"
+        },
+        {
+            "type": "java",
+            "name": "Number_of_Distinct_Islands",
+            "request": "launch",
+            "mainClass": "Graph.Number_of_Distinct_Islands",
+            "projectName": "dsa_eaf9643c"
+        },
+        {
+            "type": "java",
+            "name": "Number_of_Enclaves",
+            "request": "launch",
+            "mainClass": "Graph.Number_of_Enclaves",
+            "projectName": "dsa_eaf9643c"
+        },
+        {
+            "type": "java",
+            "name": "Number_of_Islands",
+            "request": "launch",
+            "mainClass": "Graph.Number_of_Islands",
+            "projectName": "dsa_eaf9643c"
+        },
+        {
+            "type": "java",
+            "name": "Number_of_Operations_to_Make_Network_Connected",
+            "request": "launch",
+            "mainClass": "Graph.Number_of_Operations_to_Make_Network_Connected",
+            "projectName": "dsa_eaf9643c"
+        },
+        {
+            "type": "java",
+            "name": "Number_of_Provinces",
+            "request": "launch",
+            "mainClass": "Graph.Number_of_Provinces",
+            "projectName": "dsa_eaf9643c"
+        },
+        {
+            "type": "java",
+            "name": "Number_of_Provinces_DisjointSets",
+            "request": "launch",
+            "mainClass": "Graph.Number_of_Provinces_DisjointSets",
+            "projectName": "dsa_eaf9643c"
+        },
+        {
+            "type": "java",
+            "name": "Number_of_Ways_to_Arrive_at_Destination",
+            "request": "launch",
+            "mainClass": "Graph.Number_of_Ways_to_Arrive_at_Destination",
+            "projectName": "dsa_eaf9643c"
+        },
+        {
+            "type": "java",
+            "name": "Open_the_Lock",
+            "request": "launch",
+            "mainClass": "Graph.Open_the_Lock",
+            "projectName": "dsa_eaf9643c"
+        },
+        {
+            "type": "java",
+            "name": "Pacific_Atlantic_Water_Flow",
+            "request": "launch",
+            "mainClass": "Graph.Pacific_Atlantic_Water_Flow",
+            "projectName": "dsa_eaf9643c"
+        },
+        {
+            "type": "java",
+            "name": "Path_With_Minimum_Effort",
+            "request": "launch",
+            "mainClass": "Graph.Path_With_Minimum_Effort",
+            "projectName": "dsa_eaf9643c"
+        },
+        {
+            "type": "java",
+            "name": "Reconstruct_Itinerary",
+            "request": "launch",
+            "mainClass": "Graph.Reconstruct_Itinerary",
+            "projectName": "dsa_eaf9643c"
+        },
+        {
+            "type": "java",
+            "name": "Redundant_Connection",
+            "request": "launch",
+            "mainClass": "Graph.Redundant_Connection",
+            "projectName": "dsa_eaf9643c"
+        },
+        {
+            "type": "java",
+            "name": "Reorder_Routes_to_Make_All_Paths_Lead_to_the_City_Zero",
+            "request": "launch",
+            "mainClass": "Graph.Reorder_Routes_to_Make_All_Paths_Lead_to_the_City_Zero",
+            "projectName": "dsa_eaf9643c"
+        },
+        {
+            "type": "java",
+            "name": "Rotting_Oranges",
+            "request": "launch",
+            "mainClass": "Graph.Rotting_Oranges",
+            "projectName": "dsa_eaf9643c"
+        },
+        {
+            "type": "java",
+            "name": "Shortest_Bridge",
+            "request": "launch",
+            "mainClass": "Graph.Shortest_Bridge",
+            "projectName": "dsa_eaf9643c"
+        },
+        {
+            "type": "java",
+            "name": "Shortest_Distance_in_a_Binary_Maze",
+            "request": "launch",
+            "mainClass": "Graph.Shortest_Distance_in_a_Binary_Maze",
+            "projectName": "dsa_eaf9643c"
+        },
+        {
+            "type": "java",
+            "name": "Shortest_Path_in_Undirected_Graph_with_Unit_Weights",
+            "request": "launch",
+            "mainClass": "Graph.Shortest_Path_in_Undirected_Graph_with_Unit_Weights",
+            "projectName": "dsa_eaf9643c"
+        },
+        {
+            "type": "java",
+            "name": "Shortest_Path_in_Weighted_undirected_graph",
+            "request": "launch",
+            "mainClass": "Graph.Shortest_Path_in_Weighted_undirected_graph",
+            "projectName": "dsa_eaf9643c"
+        },
+        {
+            "type": "java",
+            "name": "Shortest_Source_to_Destination_Path",
+            "request": "launch",
+            "mainClass": "Graph.Shortest_Source_to_Destination_Path",
+            "projectName": "dsa_eaf9643c"
+        },
+        {
+            "type": "java",
+            "name": "Shortest_path_in_Directed_Acyclic_Graph",
+            "request": "launch",
+            "mainClass": "Graph.Shortest_path_in_Directed_Acyclic_Graph",
+            "projectName": "dsa_eaf9643c"
+        },
+        {
+            "type": "java",
+            "name": "Strongly_Connected_Components_Kosarajus_Algo",
+            "request": "launch",
+            "mainClass": "Graph.Strongly_Connected_Components_Kosarajus_Algo",
+            "projectName": "dsa_eaf9643c"
+        },
+        {
+            "type": "java",
+            "name": "Surrounded_Regions",
+            "request": "launch",
+            "mainClass": "Graph.Surrounded_Regions",
+            "projectName": "dsa_eaf9643c"
+        },
+        {
+            "type": "java",
+            "name": "Swim_in_Rising_Water",
+            "request": "launch",
+            "mainClass": "Graph.Swim_in_Rising_Water",
+            "projectName": "dsa_eaf9643c"
+        },
+        {
+            "type": "java",
+            "name": "Topological_sort",
+            "request": "launch",
+            "mainClass": "Graph.Topological_sort",
+            "projectName": "dsa_eaf9643c"
+        },
+        {
+            "type": "java",
+            "name": "Update_01_Matrix",
+            "request": "launch",
+            "mainClass": "Graph.Update_01_Matrix",
+            "projectName": "dsa_eaf9643c"
+        },
+        {
+            "type": "java",
+            "name": "Walls_and_Gates",
+            "request": "launch",
+            "mainClass": "Graph.Walls_and_Gates",
+            "projectName": "dsa_eaf9643c"
+        },
+        {
+            "type": "java",
+            "name": "Word_Ladder_I",
+            "request": "launch",
+            "mainClass": "Graph.Word_Ladder_I",
+            "projectName": "dsa_eaf9643c"
+        },
+        {
+            "type": "java",
+            "name": "Word_Ladder_II",
+            "request": "launch",
+            "mainClass": "Graph.Word_Ladder_II",
+            "projectName": "dsa_eaf9643c"
+        },
+        {
+            "type": "java",
+            "name": "sha1",
+            "request": "launch",
+            "mainClass": "Graph.sha1",
+            "projectName": "dsa_eaf9643c"
+        },
+        {
+            "type": "java",
+            "name": "Longest_Palindrome",
+            "request": "launch",
+            "mainClass": "Greedy.Longest_Palindrome",
+            "projectName": "dsa_eaf9643c"
+        },
+        {
+            "type": "java",
+            "name": "Intro_Hashmap",
+            "request": "launch",
+            "mainClass": "HashSet.Intro_Hashmap",
+            "projectName": "dsa_eaf9643c"
+        },
+        {
+            "type": "java",
+            "name": "Introduction",
+            "request": "launch",
+            "mainClass": "HashSet.Introduction",
+            "projectName": "dsa_eaf9643c"
+        },
+        {
+            "type": "java",
+            "name": "Three_Sum(1)",
+            "request": "launch",
+            "mainClass": "HashSet.Three_Sum",
+            "projectName": "dsa_eaf9643c"
+        },
+        {
+            "type": "java",
+            "name": "Two_Sum(1)",
+            "request": "launch",
+            "mainClass": "HashSet.Two_Sum",
+            "projectName": "dsa_eaf9643c"
+        },
+        {
+            "type": "java",
+            "name": "Two_Sum_II",
+            "request": "launch",
+            "mainClass": "HashSet.Two_Sum_II",
+            "projectName": "dsa_eaf9643c"
+        },
+        {
+            "type": "java",
+            "name": "Find_the_Duplicate_Number",
+            "request": "launch",
+            "mainClass": "Linked_List.Find_the_Duplicate_Number",
+            "projectName": "dsa_eaf9643c"
+        },
+        {
+            "type": "java",
+            "name": "Reorder_List",
+            "request": "launch",
+            "mainClass": "Linked_List.Reorder_List",
+            "projectName": "dsa_eaf9643c"
+        },
+        {
+            "type": "java",
+            "name": "Reverse_Linked_List_II",
+            "request": "launch",
+            "mainClass": "Linked_List.Reverse_Linked_List_II",
+            "projectName": "dsa_eaf9643c"
+        },
+        {
+            "type": "java",
+            "name": "Reverse_Nodes_in_K_Group",
+            "request": "launch",
+            "mainClass": "Linked_List.Reverse_Nodes_in_K_Group",
+            "projectName": "dsa_eaf9643c"
+        },
+        {
+            "type": "java",
+            "name": "Rotate_List",
+            "request": "launch",
+            "mainClass": "Linked_List.Rotate_List",
+            "projectName": "dsa_eaf9643c"
+        },
+        {
+            "type": "java",
+            "name": "delete_Nth_node_last",
+            "request": "launch",
+            "mainClass": "Linked_List.delete_Nth_node_last",
+            "projectName": "dsa_eaf9643c"
+        },
+        {
+            "type": "java",
+            "name": "ispallendrome",
+            "request": "launch",
+            "mainClass": "Linked_List.ispallendrome",
+            "projectName": "dsa_eaf9643c"
+        },
+        {
+            "type": "java",
+            "name": "Find_All_Duplicates_in_an_Array",
+            "request": "launch",
+            "mainClass": "Others.Find_All_Duplicates_in_an_Array",
+            "projectName": "dsa_eaf9643c"
+        },
+        {
+            "type": "java",
+            "name": "jumping_on_clouds",
+            "request": "launch",
+            "mainClass": "Others.jumping_on_clouds",
+            "projectName": "dsa_eaf9643c"
+        },
+        {
+            "type": "java",
+            "name": "permutations",
+            "request": "launch",
+            "mainClass": "Others.permutations",
+            "projectName": "dsa_eaf9643c"
+        },
+        {
+            "type": "java",
+            "name": "Basic_Problems",
+            "request": "launch",
+            "mainClass": "Recursion.Basic_Problems",
+            "projectName": "dsa_eaf9643c"
+        },
+        {
+            "type": "java",
+            "name": "Combination_Sum",
+            "request": "launch",
+            "mainClass": "Recursion.Combination_Sum",
+            "projectName": "dsa_eaf9643c"
+        },
+        {
+            "type": "java",
+            "name": "Combination_Sum_II",
+            "request": "launch",
+            "mainClass": "Recursion.Combination_Sum_II",
+            "projectName": "dsa_eaf9643c"
+        },
+        {
+            "type": "java",
+            "name": "Combinations",
+            "request": "launch",
+            "mainClass": "Recursion.Combinations",
+            "projectName": "dsa_eaf9643c"
+        },
+        {
+            "type": "java",
+            "name": "Delete_Mid_Stack",
+            "request": "launch",
+            "mainClass": "Recursion.Delete_Mid_Stack",
+            "projectName": "dsa_eaf9643c"
+        },
+        {
+            "type": "java",
+            "name": "Find_Unique_Binary_String",
+            "request": "launch",
+            "mainClass": "Recursion.Find_Unique_Binary_String",
+            "projectName": "dsa_eaf9643c"
+        },
+        {
+            "type": "java",
+            "name": "Generate_Parentheses",
+            "request": "launch",
+            "mainClass": "Recursion.Generate_Parentheses",
+            "projectName": "dsa_eaf9643c"
+        },
+        {
+            "type": "java",
+            "name": "Leetcode_1239",
+            "request": "launch",
+            "mainClass": "Recursion.Leetcode_1239",
+            "projectName": "dsa_eaf9643c"
+        },
+        {
+            "type": "java",
+            "name": "Palindrome_Partitioning",
+            "request": "launch",
+            "mainClass": "Recursion.Palindrome_Partitioning",
+            "projectName": "dsa_eaf9643c"
+        },
+        {
+            "type": "java",
+            "name": "Partition_to_K_Equal_Sum_Subsets",
+            "request": "launch",
+            "mainClass": "Recursion.Partition_to_K_Equal_Sum_Subsets",
+            "projectName": "dsa_eaf9643c"
+        },
+        {
+            "type": "java",
+            "name": "Permutation",
+            "request": "launch",
+            "mainClass": "Recursion.Permutation",
+            "projectName": "dsa_eaf9643c"
+        },
+        {
+            "type": "java",
+            "name": "Permutation_Sequence",
+            "request": "launch",
+            "mainClass": "Recursion.Permutation_Sequence",
+            "projectName": "dsa_eaf9643c"
+        },
+        {
+            "type": "java",
+            "name": "RatInMaze",
+            "request": "launch",
+            "mainClass": "Recursion.RatInMaze",
+            "projectName": "dsa_eaf9643c"
+        },
+        {
+            "type": "java",
+            "name": "RecursionTest",
+            "request": "launch",
+            "mainClass": "Recursion.RecursionTest",
+            "projectName": "dsa_eaf9643c"
+        },
+        {
+            "type": "java",
+            "name": "Restore_IP_Addresses",
+            "request": "launch",
+            "mainClass": "Recursion.Restore_IP_Addresses",
+            "projectName": "dsa_eaf9643c"
+        },
+        {
+            "type": "java",
+            "name": "Reverse_Stack_Recursion",
+            "request": "launch",
+            "mainClass": "Recursion.Reverse_Stack_Recursion",
+            "projectName": "dsa_eaf9643c"
+        },
+        {
+            "type": "java",
+            "name": "Sort_Array_Recursion",
+            "request": "launch",
+            "mainClass": "Recursion.Sort_Array_Recursion",
+            "projectName": "dsa_eaf9643c"
+        },
+        {
+            "type": "java",
+            "name": "Sort_Stack_Recursion",
+            "request": "launch",
+            "mainClass": "Recursion.Sort_Stack_Recursion",
+            "projectName": "dsa_eaf9643c"
+        },
+        {
+            "type": "java",
+            "name": "Splitting_a_String_Into_Descending_Consecutive_Values",
+            "request": "launch",
+            "mainClass": "Recursion.Splitting_a_String_Into_Descending_Consecutive_Values",
+            "projectName": "dsa_eaf9643c"
+        },
+        {
+            "type": "java",
+            "name": "Subset_Sum(1)",
+            "request": "launch",
+            "mainClass": "Recursion.Subset_Sum",
+            "projectName": "dsa_eaf9643c"
+        },
+        {
+            "type": "java",
+            "name": "Subsets",
+            "request": "launch",
+            "mainClass": "Recursion.Subsets",
+            "projectName": "dsa_eaf9643c"
+        },
+        {
+            "type": "java",
+            "name": "Word_Search",
+            "request": "launch",
+            "mainClass": "Recursion.Word_Search",
+            "projectName": "dsa_eaf9643c"
+        },
+        {
+            "type": "java",
+            "name": "callGuest",
+            "request": "launch",
+            "mainClass": "Recursion.callGuest",
+            "projectName": "dsa_eaf9643c"
+        },
+        {
+            "type": "java",
+            "name": "countPaths",
+            "request": "launch",
+            "mainClass": "Recursion.countPaths",
+            "projectName": "dsa_eaf9643c"
+        },
+        {
+            "type": "java",
+            "name": "firstLastOccurence",
+            "request": "launch",
+            "mainClass": "Recursion.firstLastOccurence",
+            "projectName": "dsa_eaf9643c"
+        },
+        {
+            "type": "java",
+            "name": "moveAllx",
+            "request": "launch",
+            "mainClass": "Recursion.moveAllx",
+            "projectName": "dsa_eaf9643c"
+        },
+        {
+            "type": "java",
+            "name": "placeTiles",
+            "request": "launch",
+            "mainClass": "Recursion.placeTiles",
+            "projectName": "dsa_eaf9643c"
+        },
+        {
+            "type": "java",
+            "name": "printSubSets",
+            "request": "launch",
+            "mainClass": "Recursion.printSubSets",
+            "projectName": "dsa_eaf9643c"
+        },
+        {
+            "type": "java",
+            "name": "removeDuplicate",
+            "request": "launch",
+            "mainClass": "Recursion.removeDuplicate",
+            "projectName": "dsa_eaf9643c"
+        },
+        {
+            "type": "java",
+            "name": "subSequence",
+            "request": "launch",
+            "mainClass": "Recursion.subSequence",
+            "projectName": "dsa_eaf9643c"
+        },
+        {
+            "type": "java",
+            "name": "Best_Time_to_Buy_and_Sell_Stock",
+            "request": "launch",
+            "mainClass": "Sliding_Window.Best_Time_to_Buy_and_Sell_Stock",
+            "projectName": "dsa_eaf9643c"
+        },
+        {
+            "type": "java",
+            "name": "Contains_Duplicate_II",
+            "request": "launch",
+            "mainClass": "Sliding_Window.Contains_Duplicate_II",
+            "projectName": "dsa_eaf9643c"
+        },
+        {
+            "type": "java",
+            "name": "Contains_Duplicate_III",
+            "request": "launch",
+            "mainClass": "Sliding_Window.Contains_Duplicate_III",
+            "projectName": "dsa_eaf9643c"
+        },
+        {
+            "type": "java",
+            "name": "Find_All_Anagrams_in_a_String",
+            "request": "launch",
+            "mainClass": "Sliding_Window.Find_All_Anagrams_in_a_String",
+            "projectName": "dsa_eaf9643c"
+        },
+        {
+            "type": "java",
+            "name": "First_Neg_No_in_window",
+            "request": "launch",
+            "mainClass": "Sliding_Window.First_Neg_No_in_window",
+            "projectName": "dsa_eaf9643c"
+        },
+        {
+            "type": "java",
+            "name": "Frequency_of_the_Most_Frequent_Element",
+            "request": "launch",
+            "mainClass": "Sliding_Window.Frequency_of_the_Most_Frequent_Element",
+            "projectName": "dsa_eaf9643c"
+        },
+        {
+            "type": "java",
+            "name": "Longest_K_unique_characters_substring",
+            "request": "launch",
+            "mainClass": "Sliding_Window.Longest_K_unique_characters_substring",
+            "projectName": "dsa_eaf9643c"
+        },
+        {
+            "type": "java",
+            "name": "Longest_Repeating_Character_Replacement",
+            "request": "launch",
+            "mainClass": "Sliding_Window.Longest_Repeating_Character_Replacement",
+            "projectName": "dsa_eaf9643c"
+        },
+        {
+            "type": "java",
+            "name": "Longest_Sub_Array_with_Sum_K",
+            "request": "launch",
+            "mainClass": "Sliding_Window.Longest_Sub_Array_with_Sum_K",
+            "projectName": "dsa_eaf9643c"
+        },
+        {
+            "type": "java",
+            "name": "Longest_Substring_Without_Repeating_Characters",
+            "request": "launch",
+            "mainClass": "Sliding_Window.Longest_Substring_Without_Repeating_Characters",
+            "projectName": "dsa_eaf9643c"
+        },
+        {
+            "type": "java",
+            "name": "Max_Min_subArray_SizeK",
+            "request": "launch",
+            "mainClass": "Sliding_Window.Max_Min_subArray_SizeK",
+            "projectName": "dsa_eaf9643c"
+        },
+        {
+            "type": "java",
+            "name": "Maximum_Average_Subarray_I",
+            "request": "launch",
+            "mainClass": "Sliding_Window.Maximum_Average_Subarray_I",
+            "projectName": "dsa_eaf9643c"
+        },
+        {
+            "type": "java",
+            "name": "Minimum_Size_Subarray_Sum",
+            "request": "launch",
+            "mainClass": "Sliding_Window.Minimum_Size_Subarray_Sum",
+            "projectName": "dsa_eaf9643c"
+        },
+        {
+            "type": "java",
+            "name": "Minimum_Window_Substring",
+            "request": "launch",
+            "mainClass": "Sliding_Window.Minimum_Window_Substring",
+            "projectName": "dsa_eaf9643c"
+        },
+        {
+            "type": "java",
+            "name": "Repeated_DNA_Sequences",
+            "request": "launch",
+            "mainClass": "Sliding_Window.Repeated_DNA_Sequences",
+            "projectName": "dsa_eaf9643c"
+        },
+        {
+            "type": "java",
+            "name": "Sliding_Window_Maximum",
+            "request": "launch",
+            "mainClass": "Sliding_Window.Sliding_Window_Maximum",
+            "projectName": "dsa_eaf9643c"
+        },
+        {
+            "type": "java",
+            "name": "DNF_Sort",
+            "request": "launch",
+            "mainClass": "Sorting.DNF_Sort",
+            "projectName": "dsa_eaf9643c"
+        },
+        {
+            "type": "java",
+            "name": "Merge_Sort",
+            "request": "launch",
+            "mainClass": "Sorting.Merge_Sort",
+            "projectName": "dsa_eaf9643c"
+        },
+        {
+            "type": "java",
+            "name": "Quick_Sort",
+            "request": "launch",
+            "mainClass": "Sorting.Quick_Sort",
+            "projectName": "dsa_eaf9643c"
+        },
+        {
+            "type": "java",
+            "name": "Quick_Sort_Abdul",
+            "request": "launch",
+            "mainClass": "Sorting.Quick_Sort_Abdul",
+            "projectName": "dsa_eaf9643c"
+        },
+        {
+            "type": "java",
+            "name": "Wave_Sort",
+            "request": "launch",
+            "mainClass": "Sorting.Wave_Sort",
+            "projectName": "dsa_eaf9643c"
+        },
+        {
+            "type": "java",
+            "name": "Asteroid_Collision",
+            "request": "launch",
+            "mainClass": "Stack_Queue.Asteroid_Collision",
+            "projectName": "dsa_eaf9643c"
+        },
+        {
+            "type": "java",
+            "name": "Daily_Temperatures",
+            "request": "launch",
+            "mainClass": "Stack_Queue.Daily_Temperatures",
+            "projectName": "dsa_eaf9643c"
+        },
+        {
+            "type": "java",
+            "name": "Evaluate_Reverse_Polish_Notation",
+            "request": "launch",
+            "mainClass": "Stack_Queue.Evaluate_Reverse_Polish_Notation",
+            "projectName": "dsa_eaf9643c"
+        },
+        {
+            "type": "java",
+            "name": "Generate_Parentheses(1)",
+            "request": "launch",
+            "mainClass": "Stack_Queue.Generate_Parentheses",
+            "projectName": "dsa_eaf9643c"
+        },
+        {
+            "type": "java",
+            "name": "Implement_Stack_using_Queues",
+            "request": "launch",
+            "mainClass": "Stack_Queue.Implement_Stack_using_Queues",
+            "projectName": "dsa_eaf9643c"
+        },
+        {
+            "type": "java",
+            "name": "Largest_Rectangle_in_Histogram",
+            "request": "launch",
+            "mainClass": "Stack_Queue.Largest_Rectangle_in_Histogram",
+            "projectName": "dsa_eaf9643c"
+        },
+        {
+            "type": "java",
+            "name": "Maximal_Rectangle",
+            "request": "launch",
+            "mainClass": "Stack_Queue.Maximal_Rectangle",
+            "projectName": "dsa_eaf9643c"
+        },
+        {
+            "type": "java",
+            "name": "Maximum_Frequency_Stack",
+            "request": "launch",
+            "mainClass": "Stack_Queue.Maximum_Frequency_Stack",
+            "projectName": "dsa_eaf9643c"
+        },
+        {
+            "type": "java",
+            "name": "Maximum_Subarray_Min_Product",
+            "request": "launch",
+            "mainClass": "Stack_Queue.Maximum_Subarray_Min_Product",
+            "projectName": "dsa_eaf9643c"
+        },
+        {
+            "type": "java",
+            "name": "Min_Stack",
+            "request": "launch",
+            "mainClass": "Stack_Queue.Min_Stack",
+            "projectName": "dsa_eaf9643c"
+        },
+        {
+            "type": "java",
+            "name": "Nearest_Grater_to_Left",
+            "request": "launch",
+            "mainClass": "Stack_Queue.Nearest_Grater_to_Left",
+            "projectName": "dsa_eaf9643c"
+        },
+        {
+            "type": "java",
+            "name": "Nearest_Greater_to_Right",
+            "request": "launch",
+            "mainClass": "Stack_Queue.Nearest_Greater_to_Right",
+            "projectName": "dsa_eaf9643c"
+        },
+        {
+            "type": "java",
+            "name": "Nearest_Smallest_Left",
+            "request": "launch",
+            "mainClass": "Stack_Queue.Nearest_Smallest_Left",
+            "projectName": "dsa_eaf9643c"
+        },
+        {
+            "type": "java",
+            "name": "Nearest_Smallest_to_Right",
+            "request": "launch",
+            "mainClass": "Stack_Queue.Nearest_Smallest_to_Right",
+            "projectName": "dsa_eaf9643c"
+        },
+        {
+            "type": "java",
+            "name": "Next_Greater_Element_I",
+            "request": "launch",
+            "mainClass": "Stack_Queue.Next_Greater_Element_I",
+            "projectName": "dsa_eaf9643c"
+        },
+        {
+            "type": "java",
+            "name": "Remove_K_Digits",
+            "request": "launch",
+            "mainClass": "Stack_Queue.Remove_K_Digits",
+            "projectName": "dsa_eaf9643c"
+        },
+        {
+            "type": "java",
+            "name": "Simplify_Path",
+            "request": "launch",
+            "mainClass": "Stack_Queue.Simplify_Path",
+            "projectName": "dsa_eaf9643c"
+        },
+        {
+            "type": "java",
+            "name": "Stack_Span_Problem",
+            "request": "launch",
+            "mainClass": "Stack_Queue.Stack_Span_Problem",
+            "projectName": "dsa_eaf9643c"
+        },
+        {
+            "type": "java",
+            "name": "Trapping_Rain_Water",
+            "request": "launch",
+            "mainClass": "Stack_Queue.Trapping_Rain_Water",
+            "projectName": "dsa_eaf9643c"
+        },
+        {
+            "type": "java",
+            "name": "Valid_Parentheses",
+            "request": "launch",
+            "mainClass": "Stack_Queue.Valid_Parentheses",
+            "projectName": "dsa_eaf9643c"
+        },
+        {
+            "type": "java",
+            "name": "carFleet",
+            "request": "launch",
+            "mainClass": "Stack_Queue.carFleet",
+            "projectName": "dsa_eaf9643c"
+        },
+        {
+            "type": "java",
+            "name": "Longest_Common_Prefix",
+            "request": "launch",
+            "mainClass": "String.Longest_Common_Prefix",
+            "projectName": "dsa_eaf9643c"
+        },
+        {
+            "type": "java",
+            "name": "All_Nodes_Distance_K_in_Binary_Tree",
+            "request": "launch",
+            "mainClass": "Trees.All_Nodes_Distance_K_in_Binary_Tree",
+            "projectName": "dsa_eaf9643c"
+        },
+        {
+            "type": "java",
+            "name": "Amount_of_Time_for_Binary_Tree_to_Be_Infected",
+            "request": "launch",
+            "mainClass": "Trees.Amount_of_Time_for_Binary_Tree_to_Be_Infected",
+            "projectName": "dsa_eaf9643c"
+        },
+        {
+            "type": "java",
+            "name": "Balanced_Binary_Tree",
+            "request": "launch",
+            "mainClass": "Trees.Balanced_Binary_Tree",
+            "projectName": "dsa_eaf9643c"
+        },
+        {
+            "type": "java",
+            "name": "Binary_Tree_Right_Side_View",
+            "request": "launch",
+            "mainClass": "Trees.Binary_Tree_Right_Side_View",
+            "projectName": "dsa_eaf9643c"
+        },
+        {
+            "type": "java",
+            "name": "Binary_Tree_Zigzag_Level_Order_Traversal",
+            "request": "launch",
+            "mainClass": "Trees.Binary_Tree_Zigzag_Level_Order_Traversal",
+            "projectName": "dsa_eaf9643c"
+        },
+        {
+            "type": "java",
+            "name": "Bottom_View_Binary_Tree",
+            "request": "launch",
+            "mainClass": "Trees.Bottom_View_Binary_Tree",
+            "projectName": "dsa_eaf9643c"
+        },
+        {
+            "type": "java",
+            "name": "Boundary_Traversal_of_binary_tree",
+            "request": "launch",
+            "mainClass": "Trees.Boundary_Traversal_of_binary_tree",
+            "projectName": "dsa_eaf9643c"
+        },
+        {
+            "type": "java",
+            "name": "BuildTree",
+            "request": "launch",
+            "mainClass": "Trees.BuildTree",
+            "projectName": "dsa_eaf9643c"
+        },
+        {
+            "type": "java",
+            "name": "Check_Children_Sum_Property",
+            "request": "launch",
+            "mainClass": "Trees.Check_Children_Sum_Property",
+            "projectName": "dsa_eaf9643c"
+        },
+        {
+            "type": "java",
+            "name": "Construct_Binary_Tree_from_Inorder_and_Postorder_Traversal",
+            "request": "launch",
+            "mainClass": "Trees.Construct_Binary_Tree_from_Inorder_and_Postorder_Traversal",
+            "projectName": "dsa_eaf9643c"
+        },
+        {
+            "type": "java",
+            "name": "Construct_Binary_Tree_from_Preorder_and_Inorder_Traversal",
+            "request": "launch",
+            "mainClass": "Trees.Construct_Binary_Tree_from_Preorder_and_Inorder_Traversal",
+            "projectName": "dsa_eaf9643c"
+        },
+        {
+            "type": "java",
+            "name": "Construct_String_from_Binary_Tree",
+            "request": "launch",
+            "mainClass": "Trees.Construct_String_from_Binary_Tree",
+            "projectName": "dsa_eaf9643c"
+        },
+        {
+            "type": "java",
+            "name": "Convert_Children_Sum_Property",
+            "request": "launch",
+            "mainClass": "Trees.Convert_Children_Sum_Property",
+            "projectName": "dsa_eaf9643c"
+        },
+        {
+            "type": "java",
+            "name": "Count_Complete_Tree_Nodes",
+            "request": "launch",
+            "mainClass": "Trees.Count_Complete_Tree_Nodes",
+            "projectName": "dsa_eaf9643c"
+        },
+        {
+            "type": "java",
+            "name": "Count_Good_Nodes_in_Binary_Tree",
+            "request": "launch",
+            "mainClass": "Trees.Count_Good_Nodes_in_Binary_Tree",
+            "projectName": "dsa_eaf9643c"
+        },
+        {
+            "type": "java",
+            "name": "Diameter_of_Binary_Tree",
+            "request": "launch",
+            "mainClass": "Trees.Diameter_of_Binary_Tree",
+            "projectName": "dsa_eaf9643c"
+        },
+        {
+            "type": "java",
+            "name": "Find_Bottom_Left_Tree_Value",
+            "request": "launch",
+            "mainClass": "Trees.Find_Bottom_Left_Tree_Value",
+            "projectName": "dsa_eaf9643c"
+        },
+        {
+            "type": "java",
+            "name": "Flatten_Binary_Tree_to_Linked_List",
+            "request": "launch",
+            "mainClass": "Trees.Flatten_Binary_Tree_to_Linked_List",
+            "projectName": "dsa_eaf9643c"
+        },
+        {
+            "type": "java",
+            "name": "Flip_Equivalent_Binary_Trees",
+            "request": "launch",
+            "mainClass": "Trees.Flip_Equivalent_Binary_Trees",
+            "projectName": "dsa_eaf9643c"
+        },
+        {
+            "type": "java",
+            "name": "HelloWorld(1)",
+            "request": "launch",
+            "mainClass": "Trees.HelloWorld",
+            "projectName": "dsa_eaf9643c"
+        },
+        {
+            "type": "java",
+            "name": "House_Robber_III",
+            "request": "launch",
+            "mainClass": "Trees.House_Robber_III",
+            "projectName": "dsa_eaf9643c"
+        },
+        {
+            "type": "java",
+            "name": "Invert_Binary_Tree",
+            "request": "launch",
+            "mainClass": "Trees.Invert_Binary_Tree",
+            "projectName": "dsa_eaf9643c"
+        },
+        {
+            "type": "java",
+            "name": "IterativeTreeTraversal",
+            "request": "launch",
+            "mainClass": "Trees.IterativeTreeTraversal",
+            "projectName": "dsa_eaf9643c"
+        },
+        {
+            "type": "java",
+            "name": "Lowest_Common_Ancestor_in_Binary_Tree",
+            "request": "launch",
+            "mainClass": "Trees.Lowest_Common_Ancestor_in_Binary_Tree",
+            "projectName": "dsa_eaf9643c"
+        },
+        {
+            "type": "java",
+            "name": "Maximum_Path_Sum_in_Binary_Tree",
+            "request": "launch",
+            "mainClass": "Trees.Maximum_Path_Sum_in_Binary_Tree",
+            "projectName": "dsa_eaf9643c"
+        },
+        {
+            "type": "java",
+            "name": "Maximum_Width_of_Binary_Tree",
+            "request": "launch",
+            "mainClass": "Trees.Maximum_Width_of_Binary_Tree",
+            "projectName": "dsa_eaf9643c"
+        },
+        {
+            "type": "java",
+            "name": "Merge_Two_Binary_Trees",
+            "request": "launch",
+            "mainClass": "Trees.Merge_Two_Binary_Trees",
+            "projectName": "dsa_eaf9643c"
+        },
+        {
+            "type": "java",
+            "name": "Min_Max_Depth",
+            "request": "launch",
+            "mainClass": "Trees.Min_Max_Depth",
+            "projectName": "dsa_eaf9643c"
+        },
+        {
+            "type": "java",
+            "name": "Morris_Traversal",
+            "request": "launch",
+            "mainClass": "Trees.Morris_Traversal",
+            "projectName": "dsa_eaf9643c"
+        },
+        {
+            "type": "java",
+            "name": "Path_Sum",
+            "request": "launch",
+            "mainClass": "Trees.Path_Sum",
+            "projectName": "dsa_eaf9643c"
+        },
+        {
+            "type": "java",
+            "name": "Path_Sum_II",
+            "request": "launch",
+            "mainClass": "Trees.Path_Sum_II",
+            "projectName": "dsa_eaf9643c"
+        },
+        {
+            "type": "java",
+            "name": "Path_to_Given_Node",
+            "request": "launch",
+            "mainClass": "Trees.Path_to_Given_Node",
+            "projectName": "dsa_eaf9643c"
+        },
+        {
+            "type": "java",
+            "name": "Populating_Next_Right_Pointers_in_Each_Node",
+            "request": "launch",
+            "mainClass": "Trees.Populating_Next_Right_Pointers_in_Each_Node",
+            "projectName": "dsa_eaf9643c"
+        },
+        {
+            "type": "java",
+            "name": "Same_Tree",
+            "request": "launch",
+            "mainClass": "Trees.Same_Tree",
+            "projectName": "dsa_eaf9643c"
+        },
+        {
+            "type": "java",
+            "name": "Subtree_of_Another_Tree",
+            "request": "launch",
+            "mainClass": "Trees.Subtree_of_Another_Tree",
+            "projectName": "dsa_eaf9643c"
+        },
+        {
+            "type": "java",
+            "name": "Sum_Root_to_Leaf_Numbers",
+            "request": "launch",
+            "mainClass": "Trees.Sum_Root_to_Leaf_Numbers",
+            "projectName": "dsa_eaf9643c"
+        },
+        {
+            "type": "java",
+            "name": "Symmetric_Tree",
+            "request": "launch",
+            "mainClass": "Trees.Symmetric_Tree",
+            "projectName": "dsa_eaf9643c"
+        },
+        {
+            "type": "java",
+            "name": "Time_Calculator",
+            "request": "launch",
+            "mainClass": "Trees.Time_Calculator",
+            "projectName": "dsa_eaf9643c"
+        },
+        {
+            "type": "java",
+            "name": "Top_View_of_Binary_Tree",
+            "request": "launch",
+            "mainClass": "Trees.Top_View_of_Binary_Tree",
+            "projectName": "dsa_eaf9643c"
+        },
+        {
+            "type": "java",
+            "name": "TreeTraversal",
+            "request": "launch",
+            "mainClass": "Trees.TreeTraversal",
+            "projectName": "dsa_eaf9643c"
+        },
+        {
+            "type": "java",
+            "name": "Vertical_Order_Traversal_of_a_Binary_Tree",
+            "request": "launch",
+            "mainClass": "Trees.Vertical_Order_Traversal_of_a_Binary_Tree",
+            "projectName": "dsa_eaf9643c"
+        },
+        {
+            "type": "java",
+            "name": "Word_Search_II_Trei",
+            "request": "launch",
+            "mainClass": "Trees.Word_Search_II_Trei",
+            "projectName": "dsa_eaf9643c"
+        },
+        {
+            "type": "java",
+            "name": "Zig_Zag_Traversal",
+            "request": "launch",
+            "mainClass": "Trees.Zig_Zag_Traversal",
+            "projectName": "dsa_eaf9643c"
+        },
+        {
+            "type": "java",
+            "name": "buildTreeLevelOrder",
+            "request": "launch",
+            "mainClass": "Trees.buildTreeLevelOrder",
+            "projectName": "dsa_eaf9643c"
+        }
+    ]
+}
